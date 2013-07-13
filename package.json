@@ -1,0 +1,19 @@
+{
+  "name": "v8-debugger",
+  "version": "0.0.1",
+  "description": "v8 debugger protocol client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sidorares/v8-debugger-protocol.git"
+  },
+  "keywords": [
+    "v8",
+    "debugger"
+  ],
+  "author": "Andrey Sidorov <sidorares@yandex.ru>",
+  "license": "MIT"
+}
