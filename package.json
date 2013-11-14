@@ -1,6 +1,6 @@
 {
   "name": "v8-debugger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "v8 debugger protocol client",
   "main": "index.js",
   "scripts": {
