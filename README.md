@@ -8,7 +8,7 @@ API
 
 ```js
 var client = require('v8-debugger').createClient({port: 5858});
-clident.reqBacktrace(function(err, res) {
+client.reqBacktrace(function(err, res) {
    // backtrace data
 });
 
