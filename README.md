@@ -1,6 +1,8 @@
 v8-debugger
 ====================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sidorares/v8-debugger-protocol.svg)](https://greenkeeper.io/)
+
 An attempt to export v8 debugger protocol client as a reusable module. Current source code extracted from built-in node debugger (see [\_debugger.js](https://github.com/joyent/node/blob/master/lib/_debugger.js) original source)
 
 API
